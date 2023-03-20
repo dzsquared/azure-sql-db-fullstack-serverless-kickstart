@@ -27,7 +27,7 @@ Guidance on onboarding samples to docs.microsoft.com/samples: https://review.doc
 
 Taxonomies for products and languages: https://review.docs.microsoft.com/new-hope/information-architecture/metadata/taxonomies?branch=master
 -->
-
+ 
 # Serverless Full-Stack Kickstart
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
